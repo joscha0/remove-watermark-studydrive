@@ -5,7 +5,7 @@ Remove Watermark Studydrive [![starme](https://img.shields.io/github/stars/josch
 Simple Python script to remove Watermark from PDF Documents downloaded from [Studydrive](https://www.studydrive.net/).
 
 ## Webapp
-You can try the web version of the script at **[https://remove-watermark-studydrive.herokuapp.com/](https://remove-watermark-studydrive.herokuapp.com/)**.
+You can try the web version of the script at **[remove-watermark-studydrive.960.eu](https://remove-watermark-studydrive.960.eu/)**.
 
 ## Requirements
 * **pikepdf**  [![Pypi](https://img.shields.io/pypi/v/pikepdf.svg?style=flat-square)](https://pypi.org/project/pikepdf) [![Source](https://img.shields.io/badge/source-GitHub-303030.svg?style=flat-square)](https://github.com/pikepdf/pikepdf)
